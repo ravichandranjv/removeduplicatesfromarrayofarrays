@@ -38,14 +38,14 @@ usage
 Install with [npm](http://npmjs.com)
 
 ```javascript
-$ npm intall --save-dev removeduplicatesfromarrayofarrays
+$ npm install --save-dev removeduplicatesfromarrayofarrays
 ```
 
 ## Dependency
 deduplicatearrayofstrings - v1.0.12
 
 ```javascript
-$ npm intall --save-dev deduplicatearrayofstrings
+$ npm install --save-dev deduplicatearrayofstrings
 ```
 
 ##Author: **Ravichandran JV**
