@@ -1,5 +1,5 @@
 # removeduplicatesfromarrayofarrays
-The package removes duplicate string values from the array supplied to it and returns the original array with blanks for the duplicates.
+The package removes duplicate string values from the array of arrays supplied to it.
 
 Constructor: removeduplicatesfromarrayofarrays
 
@@ -12,7 +12,10 @@ Pre-requisites
 1. npm Install babel-core, babel-cli, babel-preset-es2015 as given in the package.json 
 2. add .bablerc file to the root of this installation with preset value {"presets": "es2015"}
 
+test results & usage
+
 ![Test Result](https://github.com/ravichandranjv/removeduplicatesfromarrayofarrays/blob/master/test-pass.GIF)
+![Test Result](https://github.com/ravichandranjv/removeduplicatesfromarrayofarrays/blob/master/test-pass1.GIF)
 
 usage 
 ```javascript
