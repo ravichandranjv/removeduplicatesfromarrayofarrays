@@ -44,5 +44,9 @@ $ npm intall --save-dev removeduplicatesfromarrayofarrays
 ## Dependency
 deduplicatearrayofstrings - v1.0.12
 
+```javascript
+$ npm intall --save-dev deduplicatearrayofstrings
+```
+
 ##Author: **Ravichandran JV**
 *License: ISC*
