@@ -22,6 +22,10 @@ $ npm install --save-dev removeduplicatesfromarrayofarrays
 ## Dependency
 deduplicatearrayofstrings - v1.0.12
 
+![Test Result](https://github.com/ravichandranjv/removeduplicatesfromarrayofarrays/blob/master/test1.GIF)
+![Test Result](https://github.com/ravichandranjv/removeduplicatesfromarrayofarrays/blob/master/test2.GIF)
+
+
 ```javascript
 $ npm install --save-dev deduplicatearrayofstrings
 ```
@@ -43,8 +47,6 @@ usage
 
 ```test results & usage
 
-![Test Result](https://github.com/ravichandranjv/removeduplicatesfromarrayofarrays/blob/master/test1.GIF)
-![Test Result](https://github.com/ravichandranjv/removeduplicatesfromarrayofarrays/blob/master/test2.GIF)
 
 ##Author: **Ravichandran JV**
 *License: ISC*
