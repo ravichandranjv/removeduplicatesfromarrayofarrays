@@ -17,6 +17,7 @@ Install with [npm](http://npmjs.com)
 
 v1.0.5 is @unmerged  
 v1.0.6 is @merged
+
 @latest is v1.0.5 ie.returns unmerged arrays as supplied to th library
 
 ```javascript
