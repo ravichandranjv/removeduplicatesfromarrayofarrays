@@ -15,8 +15,14 @@ Pre-requisites
 ##Install 
 Install with [npm](http://npmjs.com)
 
+v1.0.5 is @unmerged  
+v1.0.6 is @merged
+@latest is v1.0.5 ie.returns unmerged arrays as supplied to th library
+
 ```javascript
-$ npm install --save-dev removeduplicatesfromarrayofarrays
+$ npm install --save-dev removeduplicatesfromarrayofarrays@unmerged
+$ npm install --save-dev removeduplicatesfromarrayofarrays@merged
+$ npm install --save-dev removeduplicatesfromarrayofarrays - defaults to @latest version
 ```
 
 ## Dependency
