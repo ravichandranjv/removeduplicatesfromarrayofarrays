@@ -23,7 +23,7 @@ $ npm install --save-dev removeduplicatesfromarrayofarrays
 deduplicatearrayofstrings - v1.0.12
 
 ![Test Result](https://github.com/ravichandranjv/removeduplicatesfromarrayofarrays/blob/master/test1.GIF)
-![Test Result](https://github.com/ravichandranjv/removeduplicatesfromarrayofarrays/blob/master/test2.GIF)
+![Test Result](https://github.com/ravichandranjv/removeduplicatesfromarrayofarrays/blob/master/test3.GIF)
 
 
 ```javascript
