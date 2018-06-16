@@ -43,8 +43,8 @@ usage
 
 ```test results & usage
 
-![Test Result](https://github.com/ravichandranjv/removeduplicatesfromarrayofarrays/blob/master/test-pass.GIF)
-![Test Result](https://github.com/ravichandranjv/removeduplicatesfromarrayofarrays/blob/master/test-pass1.GIF)
+![Test Result](https://github.com/ravichandranjv/removeduplicatesfromarrayofarrays/blob/master/test1.GIF)
+![Test Result](https://github.com/ravichandranjv/removeduplicatesfromarrayofarrays/blob/master/test2.GIF)
 
 ##Author: **Ravichandran JV**
 *License: ISC*
